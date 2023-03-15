@@ -1,6 +1,6 @@
 # Silhouette Manipulation
 
-Final project for Image Processing
+Applies algorithm to provided image which generates a replica with the background set to the color black.
 
 How to run project:
 `pip install -r requirements.txt`
