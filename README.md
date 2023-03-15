@@ -20,3 +20,11 @@ How to run project application using pipenv:
 `pipenv install`
 
 `pipenv run ./app.py`
+
+## Example
+
+### Portrait
+![Portrait](./images/portrait.jpg)
+
+### Silhouette
+![Silouette](./images/silhouette.jpg)
